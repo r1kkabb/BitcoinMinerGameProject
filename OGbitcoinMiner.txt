@@ -1,5 +1,5 @@
 --[[
-Welcome to print("OGbitcoinMinerScript")
+Welcome to print("Bitcoin Miner game client!")
 Version 2.9.1 RELEASE!
 discord: rikka.                                             
                    █████              ███                      
