@@ -1,6 +1,7 @@
 --[[
-Welcome to print("Bitcoin Miner game client!")
-Version 2.9.1 RELEASE!
+Welcome to print("R1kka Client!")
+Version 2.9.2 for mobile
+Version 3.0.0 for PC
 discord: rikka.                                             
                    █████              ███                      
                   █████████        ███████ ██                  
